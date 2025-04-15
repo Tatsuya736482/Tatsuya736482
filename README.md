@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 </p>
 
 # About me
-- I'm an undergraduate senior majoring in computer science at Institute of Science Tokyo, especially in NLP.
+- I'm an undergraduate senior majoring in computer science at [Institute of Science Tokyo](https://www.isct.ac.jp/ja), especially in NLP.
 - My homepage:
   - https://tatsuya736482.github.io/myprofile/
 - Projects:
