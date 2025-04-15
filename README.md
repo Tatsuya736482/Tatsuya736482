@@ -48,8 +48,7 @@ Here are some ideas to get you started:
   - Currently working on:
     
 - Looking for:
-  - Collaboration opportunities on NLP-related projects
-  - Research opportunities that aim to solve real-world problems
+ 
 - Feel free to:
   - Check out my homepage
     - https://tatsuya736482.github.io/myprofile/
