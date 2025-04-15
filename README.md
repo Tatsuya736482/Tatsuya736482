@@ -1,4 +1,4 @@
-## Hi there 👋
+## Welcome to my profile 👋
 
 <!--
 **Tatsuya736482/Tatsuya736482** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -31,3 +31,7 @@ Here are some ideas to get you started:
     <img height="20" src="https://badgen.org/img/zenn/yay1/articles?style=plastic" />
   </a>
 </p>
+
+# About me
+- My homepage:
+  - [https://tatsuya736482.github.io/myprofile/]
