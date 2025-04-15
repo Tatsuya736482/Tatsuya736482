@@ -31,8 +31,8 @@ Here are some ideas to get you started:
     <img height="20" src="https://badgen.org/img/zenn/yay1/articles?style=plastic" />
   </a>
 </p>
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tatsuya736482&theme=transparent)
 
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tatsuya736482&theme=transparent" />
 # About me
 - I'm an undergraduate senior majoring in computer science at [Institute of Science Tokyo](https://www.isct.ac.jp/ja), especially in NLP.
 - My homepage:
