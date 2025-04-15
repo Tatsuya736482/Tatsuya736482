@@ -34,4 +34,4 @@ Here are some ideas to get you started:
 
 # About me
 - My homepage:
-  - [https://tatsuya736482.github.io/myprofile/]
+  - https://tatsuya736482.github.io/myprofile/
