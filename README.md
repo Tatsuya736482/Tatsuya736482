@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 
 # About me
-- I'm an undergraduate senior majoring in computer science at [Institute of Science Tokyo](https://www.isct.ac.jp/ja), especially in NLP.
+- I'm an undergraduate senior majoring in computer science in [Okazaki Lab](https://www.nlp.c.titech.ac.jp/index.ja.html) at [Institute of Science Tokyo](https://www.isct.ac.jp/ja), especially in NLP.
 - My homepage:
   - https://tatsuya736482.github.io/myprofile/
 - Projects:
