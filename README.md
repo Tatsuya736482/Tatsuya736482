@@ -33,5 +33,25 @@ Here are some ideas to get you started:
 </p>
 
 # About me
+- I'm an undergraduate senior majoring in computer science, especially in NLP.
 - My homepage:
   - https://tatsuya736482.github.io/myprofile/
+- Projects:
+  - Developed a study-abroad support platform using React(NextJS), AuthJS and Firebase.
+    - https://www.flap-sciencetokyo.com   
+  - Developed a tool to eliminate duplicated contents by using Google Cloud Platform and Firebase.
+    - Built a custom RAG (Retrieval-Augmented Generation) system  
+      - Used Google Cloud's Text Embedding API to generate vector representations  
+      - Implemented vector search using Firebase to retrieve relevant documents  
+      - Combined the results with LLM prompts to enhance response quality
+    - Featured in an article: [Zenn Article](https://zenn.dev/yay1/articles/4c2615d147089c)
+  - Currently working on:
+    
+- Looking for:
+  - Collaboration opportunities on NLP-related projects
+  - Research opportunities that aim to solve real-world problems
+- Feel free to:
+  - Check out my homepage
+    - https://tatsuya736482.github.io/myprofile/
+  - Contact me if you're interested in working together!
+    - ichinose.t.2dcf@m.isct.ac.jp  
