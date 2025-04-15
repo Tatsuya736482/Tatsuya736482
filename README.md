@@ -1,5 +1,5 @@
 ## Welcome to my profile 👋
-
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tatsuya736482&theme=default)
 <!--
 **Tatsuya736482/Tatsuya736482** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -32,7 +32,7 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tatsuya736482&theme=default)
+
 # About me
 - I'm an undergraduate senior majoring in computer science at [Institute of Science Tokyo](https://www.isct.ac.jp/ja), especially in NLP.
 - My homepage:
