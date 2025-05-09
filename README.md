@@ -38,8 +38,9 @@ Here are some ideas to get you started:
 - My homepage:
   - https://tatsuya736482.github.io/myprofile/
 - Projects:
-  - Developed a study-abroad support platform using React(NextJS), AuthJS and Firebase.
-    - https://www.flap-sciencetokyo.com   
+  - Developed a study-abroad support platform using React(NextJS), AuthJS and Firebase and hosting on Vercel.
+    - https://www.flap-sciencetokyo.com
+    - Using ISR in order to reduce requests to DB (I am using the free version of Firebase and they have a late limit) and improve performance
   - Developed a tool to eliminate duplicated contents by using Google Cloud Platform and Firebase.
     - Built a custom RAG (Retrieval-Augmented Generation) system  
       - Used Google Cloud's Text Embedding API to generate vector representations  
