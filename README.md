@@ -28,25 +28,6 @@ Here are some ideas to get you started:
 
 
 # About me
-- I'm an undergraduate senior majoring in computer science in [Okazaki Lab](https://www.nlp.c.titech.ac.jp/index.ja.html) at [Institute of Science Tokyo](https://www.isct.ac.jp/ja), especially in NLP.
+- I'm an undergraduate senior majoring in computer science in [Okazaki Lab](https://www.nlp.c.titech.ac.jp/index.ja.html) at [Institute of Science Tokyo](https://www.isct.ac.jp/ja).
 - My homepage:
   - https://tatsuya736482.github.io/myprofile/
-- Projects:
-  - Developed a study-abroad support platform using React(NextJS), AuthJS and Firebase and hosting on Vercel.
-    - https://www.flap-sciencetokyo.com
-    - Using [ISR](https://nextjs.org/docs/pages/building-your-application/data-fetching/incremental-static-regeneration) in order to reduce requests to DB (I am using the free version of Firebase and they have a rate limit) and improve performance
-  - Developed a tool to eliminate duplicated contents by using Google Cloud Platform and Firebase.
-    - Built a custom RAG (Retrieval-Augmented Generation) system  
-      - Used Google Cloud's Text Embedding API to generate vector representations  
-      - Implemented vector search using Firebase to retrieve relevant documents  
-      - Combined the results with LLM prompts to enhance response quality
-    - Featured in an article: [Zenn Article](https://zenn.dev/yay1/articles/4c2615d147089c)
-  - Currently working on:
-    
-- Looking for:
- 
-- Feel free to:
-  - Check out my homepage
-    - https://tatsuya736482.github.io/myprofile/
-  - Contact me if you're interested in working together!
-    - ichinose.t.2dcf@m.isct.ac.jp  
