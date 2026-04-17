@@ -28,6 +28,6 @@ Here are some ideas to get you started:
 
 
 # About me
-- I'm an undergraduate senior majoring in computer science in [Okazaki Lab](https://www.nlp.c.titech.ac.jp/index.ja.html) at [Institute of Science Tokyo](https://www.isct.ac.jp/ja).
+- I'm a first-year master's student majoring in computer science in [Okazaki Lab](https://www.nlp.c.titech.ac.jp/index.ja.html) at [Institute of Science Tokyo](https://www.isct.ac.jp/ja).
 - My homepage:
   - https://tatsuya736482.github.io/myprofile/
