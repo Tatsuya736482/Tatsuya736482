@@ -14,17 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p align="left">
-  <a href="https://github.com/Tatsuya736482">
-    <img height="20" src="https://komarev.com/ghpvc/?username=Tatsuya736482" />
-  </a>
-  <a href="https://github.com/Tatsuya736482">
-    <img height="20" src="https://img.shields.io/github/followers/Tatsuya736482?label=follow&logo=github&style=flat" />
-  </a>
-  <a href="https://zenn.dev/yay1">
-    <img height="20" src="https://badgen.org/img/zenn/yay1/articles?style=plastic" />
-  </a>
-</p>
 
 
 # About me
